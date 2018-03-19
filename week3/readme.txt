@@ -1,2 +1,2 @@
-Metin olarak fonksiyon tanımladım,daha sonra.Daha sonra döngü içerisinde kullanmak için alınan stringin uzunluğunu alıp bir değişkene atadım.
-Toplam karakter sayısından bir karakter eksilterek diziye atadım.öngü içerisinde ters çevirme işlemini yapacak fonksiyonu yazdım.
+Metin olarak fonksiyon tanÄ±mladÄ±m,daha sonra.Daha sonra dÃ¶ngÃ¼ iÃ§erisinde kullanmak iÃ§in alÄ±nan stringin uzunluÄŸunu alÄ±p bir deÄŸiÅŸkene atadÄ±m.
+Toplam karakter sayÄ±sÄ±ndan bir karakter eksilterek diziye atadÄ±m.DÃ¶ngÃ¼ iÃ§erisinde ters Ã§evirme iÅŸlemini yapacak fonksiyonu yazdÄ±m.
