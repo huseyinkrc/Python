@@ -1,10 +1,4 @@
-HW1
-Calculator adında bir class oluşturuldu.
-
-Bu class içinde stack işlemleri için gerekli methodlar ile infix to postfix dönüşümü için gerekli method vardır.
-
-İşlemleri karşılaştırabilmek için değer atar. Alınan infix girdisi, sayı ise postfix dizisine direkt yazar.
-
-Infix dört işlem operatörlerinden biriyse önceliklerini kontrol ederek stack'e ekler veya postfix dizisine yazar.
-
-Oluşan postfix dizisi birleştirilerek yazdırılır.
+Calculator adÄ±nda bir sÄ±nÄ±f oluÅŸturuldu.Bu methodlarÄ±n sonuna 'infix2Postfix' adÄ±nda bir method oluÅŸturdum. Method iÃ§erisine iÅŸlem Ã¶nceliÄŸini belirten deÄŸerlerini girdim. Ã‡arpma ve bÃ¶lme iÅŸlemleri toplama ve Ã§Ä±karma iÅŸlemlerine gÃ¶re daha Ã¶ncelikli olduÄŸu iÃ§in bu iÅŸlemlere 2 deÄŸerini atadÄ±m. Kalan toplama ve Ã§Ä±karma iÅŸlemlerine 1 deÄŸerini atadÄ±m. 
+Daha sonra Calculator classÄ±ndan Ã§aÄŸÄ±rma iÅŸlemini gerÃ§ekleÅŸtiriyoruz. 
+Ä°ki tane array oluÅŸturuyorum. Girilen deÄŸerin uzunluÄŸunu alÄ±yorum. Bu uzunluk deÄŸeri kadar dÃ¶necek bir for dÃ¶ngÃ¼sÃ¼ oluÅŸturuyor ve diziye(TempArr) atÄ±yorum. 
+YazÄ±lan deÄŸerlerin iÃ§erisinde rakamlar varsa bu girdileri de ikinci diziye(PostFix) atÄ±yorum. Son olarak da postfixi oluÅŸturduktan sonra ekrana yazdÄ±rÄ±yoruz.
